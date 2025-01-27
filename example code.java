@@ -1,6 +1,6 @@
 class evenodd {
     public static void main() {
-        for (int num = 1; num <= 10; num++) {
+        for (int num = 1; num <= 5; num++) {
             System.out.print(num);
             if (num % 2 == 0)
                 System.out.println("even");
